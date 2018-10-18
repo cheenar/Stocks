@@ -1,0 +1,8 @@
+Built for Python3
+
+Requirements:
+    * requests
+    * bs4 (beautiful soup 4)
+
+stock_screener.py: taps into a stock screener to get relevant data (searching for stocks by small, limited paramters)
+stock_historical_data.py: taps into alpha vantage's API to get historical datasets
